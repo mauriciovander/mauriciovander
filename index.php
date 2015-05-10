@@ -78,8 +78,8 @@
 
 <section id="profile" class="container services">
     <br/>
-    <div class="row equal">
-        <div class="col-sm-3">
+    <div class="row">
+        <div class="col-lg-3 col-md-6 col-sm-12">
             <div class="panel panel-primary">
                 <div class="panel-heading">Main profile</div>
                 <div class="panel-body">
@@ -89,7 +89,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-3">
+        <div class="col-lg-3 col-md-6 col-sm-12">
             <div class="panel panel-primary">
                 <div class="panel-heading">Engineering</div>
                 <div class="panel-body">
@@ -99,7 +99,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-3">
+        <div class="col-lg-3 col-md-6 col-sm-12">
             <div class="panel panel-primary">
                 <div class="panel-heading">Electronics</div>
                 <div class="panel-body">
@@ -110,7 +110,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-3">
+        <div class="col-lg-3 col-md-6 col-sm-12">
             <div class="panel panel-primary">
                 <div class="panel-heading">Sound & Accoustics</div>
                 <div class="panel-body">
@@ -231,7 +231,7 @@
             
         </div>
 
-        <div class="col-lg-4 text-right wow fadeInRight">
+<!--         <div class="col-lg-4 text-right wow fadeInRight">
             <img src="/assets/img/photos/IMG_0456_1024.jpg" width="90%" class="img-responsive pull-right" style="box-shadow:10px 10px 5px #bbb;">
         </div>
         <div class="col-lg-4 text-right wow fadeInRight" style="margin-top:50px;">
@@ -239,7 +239,7 @@
         </div>
         <div class="col-lg-4 text-right wow fadeInRight" style="margin-top:50px;">
             <img src="/assets/img/photos/IMG_1112_1024.jpg" width="40%" class="img-responsive pull-right" style="box-shadow:10px 10px 5px #bbb;">
-        </div>
+        </div> -->
 
     </div>
 </section>
