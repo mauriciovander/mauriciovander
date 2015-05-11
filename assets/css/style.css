@@ -360,7 +360,8 @@ li.pricing-title {
 }
 .contact a, 
 .contact a:visited, 
-.contact a:hover{
+.contact a:hover,
+.contact p{
   color: white;
 }
 .contact i{
