@@ -158,7 +158,7 @@
                 <i class="fa fa-globe features-icon fa-2x"></i>
                 <h2>I love Travelling</h2>
                 <p>Places I've visited:</p>
-                <p>Brasil, Chile, Argentina, Paraguay, Mexico, EE.UU., Spain, Germany, Austria, Switzerland, Italy</p>
+                <p>Brasil, Chile, Argentina, Paraguay, Mexico, EE.UU., Spain, France, Germany, Austria, Switzerland, Italy</p>
             </div>
             <div class="m-t-lg">
                 <i class="fa fa-bicycle features-icon fa-2x" style="color:#353432;"></i>
