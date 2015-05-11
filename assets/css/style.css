@@ -353,10 +353,18 @@ li.pricing-title {
   color: white;
 }
 .contact {
-  background-color: rgba(226,219,212,1);
+  background-color: rgba(124, 123, 122, 1);
   margin-top: 60px;
   background-size: 100%;
-
+  color: white;
+}
+.contact a, 
+.contact a:visited, 
+.contact a:hover{
+  color: white;
+}
+.contact i{
+  color: rgb(53, 52, 50);
 }
 /* Buttons - only primary custom button
 ------------------------- */
