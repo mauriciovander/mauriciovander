@@ -46,7 +46,7 @@
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a class="page-scroll" href="#profile">Profile</a></li>
-                        <li><a class="page-scroll" href="#interests">Interests</a></li>
+                        <li><a class="page-scroll" href="#interests">About me</a></li>
                         <li><a class="page-scroll" href="#projects">Projects</a></li>
                         <li><a class="page-scroll" href="#contact">Contact</a></li>
                         <!-- <li><a href="#login" data-toggle="modal" data-target="#loginModal">Login</a></li> -->
@@ -128,8 +128,8 @@
     <div class="row">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
-            <h1>My profile</h1>
-            <p>Get to know me.</p>
+            <h1>About me</h1>
+            <p>Some things I like.</p>
         </div>
     </div>
     <div class="row">
