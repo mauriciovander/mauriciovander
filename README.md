@@ -1,5 +1,5 @@
 # mauriciovander
 Personal Site
 
-Site located at http://mauriciovander.com
+Site located at http://mvcomp.com/
 
